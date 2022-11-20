@@ -8,11 +8,9 @@ export default function Header() {
         <header>
             <Router>
             <h1 className='logo'>Muvi</h1>
-            <li >
-                <Link to="/cart" >
+           
                 <FontAwesomeIcon icon="fa-solid fa-cart-shopping" />
-                </Link>
-            </li>
+              
             </Router>
         </header>
     )
