@@ -1,0 +1,9 @@
+nav{
+    padding: 16px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+
+}
