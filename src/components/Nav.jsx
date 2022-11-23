@@ -10,6 +10,7 @@ export default function Nav() {
             <div className='container' >
                 {Object.entries(requests).map(([key, { title, url }]) => (
                     <h2
+                    className='nav__title'
                         key={key}
                     // onClick={() => router.push(`/?genre=${key}`)}
 

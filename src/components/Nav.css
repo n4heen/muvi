@@ -7,3 +7,8 @@ nav{
     justify-content: space-between;
 
 }
+
+.nav__title{
+    padding: 8px;
+    white-space: nowrap;
+}

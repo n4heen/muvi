@@ -2,11 +2,25 @@ header {
     background-color: purple;
     height: 80px;
     display: flex;
+    justify-content: space-between;
     align-items: center;
+    padding: 32px;
 }
 
-.logo {
+.header__logo {
 
     color: white;
     margin: 32px;
+}
+
+.header__cart {
+    width: 32px;
+    height: 32px;
+    color: white;
+}
+
+.header__search {
+    width: 32px;
+    height: 32px;
+    color: white;
 }
