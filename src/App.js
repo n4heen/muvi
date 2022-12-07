@@ -6,9 +6,9 @@ import Nav from "./components/Nav";
 function App() {
   return (
     <div className="App">
-<Header/>
-<Nav/>
-<Footer/>
+      <Header />
+      <Nav />
+      <Footer />
     </div>
   );
 }
